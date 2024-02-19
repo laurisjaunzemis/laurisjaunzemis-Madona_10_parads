@@ -1,0 +1,4 @@
+koks,maja,saule,
+udens,bumba,jura
+siena,kuka,masina
+lapma lupata
